@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Prevent Hate README
 
 ## Table of Contents
@@ -31,4 +29,87 @@
   - [Content Research](#content-research)
   - [Media](#media)
   - [Acknowledgements](#acknowledgements)
->>>>>>> b0ce90e4b90c112c1ee93d9f7352c85a260391b2
+
+## Introduction
+Content for the Introduction section...
+
+## Project Outline
+Content for the Project Outline section...
+
+## Project Planning
+Content for the Project Planning section...
+
+## UX Design
+Content for the UX Design section...
+
+### User Stories
+Content for the User Stories section...
+
+### Colors
+Content for the Colors section...
+
+### Fonts
+Content for the Fonts section...
+
+### Imagery
+Content for the Imagery section...
+
+### Wireframes
+Content for the Wireframes section...
+
+## Features
+Content for the Features section...
+
+### General Features
+Content for the General Features section...
+
+### Navigation and Hero Section
+Content for the Navigation and Hero Section...
+
+### Prevent Section
+Content for the Prevent Section...
+
+### Resources and Policies Section
+Content for the Resources and Policies Section...
+
+### Footer
+Content for the Footer section...
+
+### Links and Buttons
+Content for the Links and Buttons section...
+
+### Responsive Design
+Content for the Responsive Design section...
+
+## Built With
+Content for the Built With section...
+
+### Technology and Languages
+Content for the Technology and Languages section...
+
+### Libraries and Frameworks
+Content for the Libraries and Frameworks section...
+
+### Tools and Programs
+Content for the Tools and Programs section...
+
+## Development
+Content for the Development section...
+
+## Testing
+Content for the Testing section...
+
+## Credits
+Content for the Credits section...
+
+### Code
+Content for the Code section...
+
+### Content Research
+Content for the Content Research section...
+
+### Media
+Content for the Media section...
+
+### Acknowledgements
+Content for the Acknowledgements section...
