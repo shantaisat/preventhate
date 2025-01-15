@@ -31,7 +31,11 @@
   - [Acknowledgements](#acknowledgements)
 
 ## Introduction
-Content for the Introduction section...
+"Prevent Hate" is my first assessed portfolio project, developed as part of the Code Institute Full Stack Software Developer Bootcamp. This project demonstrates my ability to utilise HTML5, CSS3, Bootstrap  and Copilot to create a responsive and user-friendly website. The goal was to meet the requirements of a brief focused on raising awareness about safeguarding against extremism and radicalisation.
+
+The website is designed to provide a clear introduction to the UK’s Prevent strategy, helping users understand how to recognise risks, respond effectively, and access the right support. With a focus on simplicity and accessibility, "Prevent Hate" reflects my commitment to creating meaningful and impactful web solutions.
+
+
 
 ## Project Outline
 Content for the Project Outline section...
