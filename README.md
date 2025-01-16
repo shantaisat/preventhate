@@ -38,9 +38,13 @@ The website is designed to provide a clear introduction to the UK’s Prevent st
 
 
 ## Project Outline
-Project Outline
 
 The Prevent Hate website is designed to raise awareness about safeguarding against extremism and radicalisation by introducing the UK’s Prevent strategy. The project aims to deliver a clear, accessible, and user-focused platform that meets both the needs of users seeking information and the goals of the Prevent initiative.
+
+# Objective #
+Raise Awareness: Educate users on the fundamentals of the Prevent strategy and its role in safeguarding.
+Inform and Empower: Provide practical advice on recognising the signs of radicalisation and responding appropriately.
+Support Users: Offer a clear pathway to access help, resources, and reporting mechanisms.
 
 ## Project Planning
 Content for the Project Planning section...
