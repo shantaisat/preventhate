@@ -93,16 +93,21 @@ Content for the UX Design section...
   ![Design Considerationp](/assets/images/readme/Prevent%20Lime%20%20Prussian%20%20Brand%20Board.png)
 
 ### Colors
-
+For this project, I haveve chosen a colour palette of lime green, Prussian Blue, White, and a hint of Light Grey. Visually striking but also evoke feelings of safety and trust while subtly referencing law enforcement without being overwhelming.  Lime green and Prussian blue create a striking contrast, while white and light grey provide balance, giving the site a clean and professional feel.
 
 ### Fonts
-Content for the Fonts section...
+Anton: Perfect for titles and headings due to its bold, impactful style. It draws attention and conveys authority, fitting for a website about a serious subject like PREVENT.
+Inter: A versatile and highly readable font for body text. Its modern, clean lines complement Anton while ensuring the content remains approachable and digestible.
 
 ### Imagery
-Content for the Imagery section...
+2D Flat Design: Using AI-generated flat illustrations in your color scheme ensures inclusivity and neutrality. The mix of male and female characters and non-specific racial representation is a thoughtful choice, ensuring no group feels excluded or targeted.
+Consistency: The strong theme of lime green, Prussian blue, and black in the images ties them seamlessly into the website's design.
 
 ### Wireframes
-Content for the Wireframes section...
+![Wireframe Home page](/assets/images/readme/Prevent%20Home%20Wireframes.jpg)
+![Wireframe Hrecognise page](/assets/images/readme/Prevent%20Wireframes.jpg)
+![Wireframe Support page](/assets/images/readme/Prevent%20Wireframes%20support.jpg)
+
 
 ## Features
 Content for the Features section...
