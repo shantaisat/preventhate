@@ -116,8 +116,6 @@ body, html {
     margin-bottom: 2rem;
 }
 
-
-
 .card {
     background-color: rgba(255, 255, 255, 0.1);
     border: none;
@@ -152,7 +150,26 @@ body, html {
     font-size: 1rem;
 }
 
+/* Light Grey Background for Specific Section */
+.light-grey-bg {
+    background-color: #f8f9fa; /* light grey */
+}
 
+.light-grey-bg .card {
+    background-color: white; /* Override the conflicting style */
+    color: black; /* Override the conflicting style */
+}
+
+/* Plain Card Styles */
+.plain-card {
+    background-color: #f8f9fa; /* light grey */
+    color: black;
+    border: 1px solid #ddd;
+    height: 350px; /* Set a fixed height to match other cards */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 /* Footer */
 footer {
@@ -160,8 +177,7 @@ footer {
     padding: 1rem;
     text-align: center;
     color: #bdff00;
-    position: 0;
+    position: relative;
     bottom: 0;
     width: 100%;
 }
-
