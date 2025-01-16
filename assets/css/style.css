@@ -1,76 +1,67 @@
-:root {
-    --primary-color: #007bff;
-    --secondary-color: #6c757d;
-    --success-color: #28a745;
-    --danger-color: #dc3545;
-    --warning-color: #ffc107;
-    --info-color: #17a2b8;
-    --light-color: #f8f9fa;
-    --dark-color: #343a40;
-    --navbar-bg-color: #36445b; /* Updated color */
-    --navbar-font-color: #bdff00; /* Navbar font color */
-    --font-family: 'Arial, sans-serif';
-    --font-family-anton: 'Anton', sans-serif;
-    --font-family-inter: 'Inter', sans-serif;
-    --font-size-base: 16px; /* Base font size */
-    --font-size-h1: 2.5rem; /* Font size for h1 */
-    --font-size-h2: 2rem; /* Font size for h2 */
-    --font-size-p: 1rem; /* Font size for paragraphs */
-    --navbar-font-size: 1.25rem; /* Font size for navbar */
-    --active-link-color: #e4e5e6; /* Color for active link */
+/* General styles */
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
 }
 
-body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-    font-family: var(--font-family);
-    font-size: var(--font-size-base);
-}
-
-h1 {
-    font-family: var(--font-family-anton);
-    font-size: var(--font-size-h1);
-}
-
-h2 {
-    font-family: var(--font-family-anton);
-    font-size: var(--font-size-h2);
+/* Navbar */
+.navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .navbar-brand {
-    font-family: var(--font-family-anton);
-    color: var(--navbar-font-color);
-    font-size: var(--navbar-font-size);
-}
-
-.navbar {
-    color: #e4e5e6;
-    background-color: var(--navbar-bg-color);
+    font-size: 1.5rem;
+    font-weight: bold;
 }
 
 .navbar-nav .nav-link {
-    color: var(--navbar-font-color);
-    font-family: var(--font-family-inter);
-    font-size: var(--navbar-font-size);
+    font-size: 1.1rem;
+    margin-right: 1rem;
 }
 
-.navbar-nav .nav-link.active {
-    color: var(--active-link-color); /* Apply color to active link */
+.navbar-nav .nav-link:hover {
+    text-decoration: underline;
 }
 
-p {
-    font-family: var(--font-family-inter);
-    font-size: var(--font-size-p);
-}
-
-.content {
-    flex: 1;
-}
-
-footer {
-    background-color: var(--navbar-bg-color); /* Set footer background color to navbar color */
-    padding: 1rem;
+/* Hero Image */
+.hero-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
-    color: var(--navbar-font-color); /* Set footer text color to navbar font color */
+    color: white;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/Shout.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
 }
+
+.hero-image h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.hero-image p {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+}
+
+.hero-image .btn {
+    font-size: 1.1rem;
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.5rem;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 0.9rem;
+}
+
