@@ -47,16 +47,53 @@ Inform and Empower: Provide practical advice on recognising the signs of radical
 Support Users: Offer a clear pathway to access help, resources, and reporting mechanisms.
 
 ## Project Planning
-Content for the Project Planning section...
+he Prevent Hate website was carefully planned to ensure it meets the needs of its users and aligns with its goals of raising awareness about safeguarding and extremism.
+
+1. Defining Objectives
+The project planning began with identifying the primary objectives:
+* To provide a clear and concise introduction to the Prevent strategy.
+* To offer actionable steps for recognising and responding to radicalisation.
+* To make resources and reporting mechanisms easily accessible.
+2. Understanding the User
+User personas were developed to ensure the website meets user needs effectively:
+* General Public: Individuals unfamiliar with Prevent who want to learn about it.
+* Parents: Concerned about safeguarding their children from online or offline radicalisation.
+* Community Workers/Educators: Seeking guidance on recognising and responding to warning signs.
+3. Content Organisation
+The website was divided into three key pages:
+* Home Page: Introduces the Prevent strategy and the purpose of the site.
+* Recognise and Respond Page: Focuses on warning signs and actionable tips.
+* Get Help and Support Page: Includes resources, contact information, and a reporting form.
+4. Feature Planning
+Features were chosen to support the user journey and enhance the website's usability:
+* A hero section with clear calls-to-action.
+* Navigation bar for easy movement between pages.
+* Bootstrap grids to organise information cleanly.
+* Action buttons to encourage user engagement.
+* A contact form for reporting concerns.
+* Responsive design for optimal viewing on any device.
 
 ## UX Design
 Content for the UX Design section...
 
 ### User Stories
-Content for the User Stories section...
+1. Understanding Prevent 
+    * As a member of the public, I want to learn what Prevent is so I can understand its purpose and relevance in safeguarding.
+2. Recognising Risks
+    * As a concerned citizen, I want to know the warning signs of radicalisation so I can identify potential risks in my community.
+3. Taking Action
+    * As a member of the public, I want clear instructions on how to report concerns so I can act responsibly if I notice something troubling.
+4. Supporting Awareness
+    * As someone new to Prevent, I want a simple explanation of how it helps vulnerable individuals so I can feel confident in supporting its efforts.
+5. Navigating the Website
+    * As a visitor, I want the website to be easy to navigate so I can quickly find the information I need.
+6. Accessing Resources
+    * As a citizen, I want access to trusted resources and contact information so I can educate myself further or seek help if needed.
+
+  ![Design Considerationp](/assets/images/readme/Prevent%20Lime%20%20Prussian%20%20Brand%20Board.png)
 
 ### Colors
-Content for the Colors section...
+
 
 ### Fonts
 Content for the Fonts section...
