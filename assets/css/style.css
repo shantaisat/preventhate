@@ -170,6 +170,24 @@ body, html {
     align-items: center;
     justify-content: center;
 }
+/* Two-Part Grid Section */
+.two-part-grid .bg-dark-blue {
+    background-color: #36445b;
+    color: white;
+    padding: 20px;
+    height: 100%;
+}
+
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.no-gutters > .col,
+.no-gutters > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+}
 
 /* Footer */
 footer {
