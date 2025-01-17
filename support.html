@@ -118,9 +118,72 @@
                   </div>
                 </div>
               </div>
-
-          
-              
+            
+              <div id="custom-section" class="container-fluid custom-section">
+                <div class="row gy-4">
+                    <!-- Card 1: Form -->
+                    <div class="col-md-6">
+                        <div class="card">
+                            <div class="card-header">
+                                Submit a Concern
+                            </div>
+                            <div class="card-body">
+                                <form action="thankyou.html" method="POST">
+                                    <div class="mb-3">
+                                        <label for="name" class="form-label">Your Name</label>
+                                        <input type="text" class="form-control" id="name" name="name" required>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="county" class="form-label">County</label>
+                                        <select class="form-select" id="county" name="county" required>
+                                            <option value="" selected disabled>-- Select County --</option>
+                                            <optgroup label="England">
+                                                <option value="Greater London">Greater London</option>
+                                                <option value="West Yorkshire">West Yorkshire</option>
+                                                <option value="Greater Manchester">Greater Manchester</option>
+                                                <!-- Add more counties for England -->
+                                            </optgroup>
+                                            <optgroup label="Wales">
+                                                <option value="Cardiff">Cardiff</option>
+                                                <option value="Swansea">Swansea</option>
+                                                <option value="Newport">Newport</option>
+                                                <!-- Add more counties for Wales -->
+                                            </optgroup>
+                                        </select>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="relationship" class="form-label">Relationship to Concerned</label>
+                                        <input type="text" class="form-control" id="relationship" name="relationship" required>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="email" class="form-label">Your Email Address</label>
+                                        <input type="email" class="form-control" id="email" name="email" required>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="individual-name" class="form-label">Name of the Individual</label>
+                                        <input type="text" class="form-control" id="individual-name" name="individual_name" required>
+                                    </div>
+                                    <button type="submit" class="btn btn-primary w-100">Submit</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+        
+                    <!-- Card 2: Color Block with Overlay -->
+                    <div class="col-md-6">
+                        <div class="card">
+                            <div class="card-header">
+                                Help & Resources
+                            </div>
+                            <div class="card-body color-card">
+                                <h2>Need More Information?</h2>
+                                <p>Click the button below to access additional support and resources tailored to your needs.</p>
+                                <a href="https://www.example.com" class="btn btn-primary btn-lg" target="_blank">Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 
 
