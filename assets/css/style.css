@@ -4,6 +4,7 @@ body, html {
     margin: 0;
     font-family: 'Inter', sans-serif;
 }
+h1,h2{font-family: "Anton";}
 
 /* Navbar */
 .navbar {
@@ -374,6 +375,10 @@ button:hover,
 }
 #custom-section {
     background-color: #eceff1;
+}
+.card-section{
+
+    background-color: #f9f9f9;
 }
 
 
